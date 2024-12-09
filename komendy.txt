@@ -1,1 +1,4 @@
+npm run build
+npm run watch
+npm run test
 npm exec html-validate song.html
